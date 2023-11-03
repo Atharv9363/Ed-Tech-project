@@ -1,7 +1,11 @@
-Open ths with your VS Code and run below commands:
+Open the project in your code editor (e.g., Visual Studio Code).
+
+Install the required dependencies by running the following commands in your terminal:
+
 npm install
 cd server
-npm install 
+npm install
 
-Then after installing all the modules run the web app using below command
+After installing all the required modules, you can run the web app with the following command:
+
 npm run dev
