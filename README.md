@@ -1,4 +1,4 @@
-Open ths with your VS Code and run below commands
+Open ths with your VS Code and run below commands:
 npm install
 cd server
 npm install 
